@@ -1,4 +1,4 @@
-# File Compression Script
+# 7z Compress Script
 
 ## Description
 This script allows you to compress files and directories using the 7z utility with various compression options. It provides a user-friendly interface to choose compression levels, add passwords, split files, and delete the original file or directory after compression.
